@@ -25,3 +25,8 @@ Example: `git config --global user.name "Alejandro quiroz"`
 
 
 > Note: You can find these commands in the [Cheat-sheet.md](https://github.com/alejandro-devop/git-github-notes/blob/main/Cheat-sheet.md) file
+
+
+---
+
+[Go to chapter 5](https://github.com/alejandro-devop/git-github-notes/blob/main/5-chapter/notes.md)

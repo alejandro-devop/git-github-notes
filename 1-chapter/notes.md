@@ -19,3 +19,7 @@ To solve all of this problems a bunch of people created a software solution, the
 If you work with something related to software, or you study made a little research, you probably know what linux is... Linux is a huge project, and it was not created by a single person, it was created by a lot o people who worked together to make it what it is today. At the very first time they use a **Control Version System** named **BitKeeper**, but when the relation with the company **BitKeeper** broke up, then the linux community decided to create It's own **Control Version System**, **GIT**...
 
 You can learn a little bit more about git history in their official website [here](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git)
+
+---
+
+[Go to chapter 2](https://github.com/alejandro-devop/git-github-notes/blob/main/2-chapter/notes.md)

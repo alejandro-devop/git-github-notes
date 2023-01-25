@@ -41,3 +41,7 @@ As probably you're guessing right now, every time you confirm a change (Create a
 
 ## Branches 
 Branches are a concept that could be difficult to understand right now, but I want you to keep it in mind for now. Imagine that you need to modify your entire repository... you need to modify almost all files in your project, but even when you know you have restoration points with your commits, is safer to create a copy of your repository and work isolated on thise copy, this way you wont interfiere with others work and you can do anything you want, even create new restoration points (**commits**). But hold on, there is no need to copy and paste the entire folder, tools like **Git** allows you to do this, and **Git** call these copies **Branches** and we will see the reason for this name in the future.
+
+---
+
+[Go to chapter 3](https://github.com/alejandro-devop/git-github-notes/blob/main/3-chapter/notes.md)
