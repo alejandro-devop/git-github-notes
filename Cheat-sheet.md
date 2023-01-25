@@ -7,8 +7,10 @@ In programming we call a cheat sheet as a list of usefull commands of instructio
 
 | Command | Name | Description |
 | :------ | :--- | :--------- |
-|    |    |    |
-|    |    |    |
+|  `git config --global user.email "[my-email]"`  |  Set email  | Tell git what is my user name |
+|  `git config --global user.name "[my full name]"`  |  Set full name  | Tell git what is my human name |
+|  ``  |    |    |
+|  ``  |    |    |
 
 ## All platform commands
 | Command | Name | Description | Usage |
