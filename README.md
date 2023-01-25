@@ -4,7 +4,7 @@ I love writing my notes as if I was speaking to someone else, if you're reading 
 
 1. **[Chapter 1](https://github.com/alejandro-devop/git-github-notes/blob/main/1-chapter/notes.md)**, What is git and what need it solves.
 2. **[Chapter 2](https://github.com/alejandro-devop/git-github-notes/blob/main/2-chapter/notes.md)**, Some key concepts about git.
-3. **Chapter 3**, Installation
+3. **[Chapter 3](https://github.com/alejandro-devop/git-github-notes/blob/main/3-chapter/notes.md)**, Installation
 4. Chapter 4, First steps
 5. Chapter 5, First Commands. 
 6. _to be defined..._
