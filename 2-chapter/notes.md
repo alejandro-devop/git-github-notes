@@ -1,6 +1,6 @@
-# Key concepts
+# Chapter 2, Some key concepts about git.
 
-> **IMPORTANT:** Through all the examples I'll be using [HTML](https://www.w3.org/), and I'll be assuming you understand a little bit of it, if you want to learn about HTML i recommend you to go [here](https://www.w3schools.com/html/)
+> **IMPORTANT** Through all the examples I'll be using [HTML](https://www.w3.org/), and I'll be assuming you understand a little bit of it, if you want to learn about HTML i recommend you to go [here](https://www.w3schools.com/html/)
 
 ---
 Before to getting started with git material, there are some concepts that I considere are important for you to know:
@@ -28,7 +28,7 @@ As mentioned in the previous chapter a project could be a bunch of files, an ima
 ## Respositories
 From now on we will call these projects initialized with **Git** as **Repositories**, the concept is the same from now on.
 
-> **Note:** any folder within your computer that has been initialized with **Git** is considered a repository, you can have multiple folders initialized  with **Git**, each one of them will be considered a different **Repository**.
+> **Note** any folder within your computer that has been initialized with **Git** is considered a repository, you can have multiple folders initialized  with **Git**, each one of them will be considered a different **Repository**.
 
 ## Changes
 The word change is pretty self explanatory, we will call **change** to one or more modifications made to any file within a repository.

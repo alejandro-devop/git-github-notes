@@ -7,7 +7,7 @@ Is time to start writing commands in git, our first step and most important is t
 ```bash
 git config --global user.email "[my-user-name]"
 ```
-> **Note:** Replace `[my-user-name]` with your username (including the squared brackes)
+> **Note** Replace `[my-user-name]` with your username (including the squared brackes)
 
 Example: `git config --global user.email "alejandro.devop@gmail.com"`
 
@@ -24,7 +24,7 @@ git config --global user.name "[your full name]"
 Example: `git config --global user.name "Alejandro quiroz"`
 
 
-> Note: You can find these commands in the [Cheat-sheet.md](https://github.com/alejandro-devop/git-github-notes/blob/main/Cheat-sheet.md) file
+> **Note** You can find these commands in the [Cheat-sheet.md](https://github.com/alejandro-devop/git-github-notes/blob/main/Cheat-sheet.md) file
 
 
 ---

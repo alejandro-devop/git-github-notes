@@ -6,8 +6,9 @@ I love writing my notes as if I was speaking to someone else, if you're reading 
 2. **[Chapter 2](https://github.com/alejandro-devop/git-github-notes/blob/main/2-chapter/notes.md)**, Some key concepts about git.
 3. **[Chapter 3](https://github.com/alejandro-devop/git-github-notes/blob/main/3-chapter/notes.md)**, Installation
 4. **[Chapter 4](https://github.com/alejandro-devop/git-github-notes/blob/main/4-chapter/notes.md)**, First steps
-5. **Chapter 5**, Initialize a repository.
-6. _to be defined..._
+5. **[Chapter 5](https://github.com/alejandro-devop/git-github-notes/blob/main/5-chapter/notes.md)**, Initialize a repository.
+6. **Chapter 6**, Our first change
+7. _to be defined..._
 
 Also I leave you a list of usefull commands as a Git cheat-sheet [here](https://github.com/alejandro-devop/git-github-notes/blob/main/Cheat-sheet.md)
 

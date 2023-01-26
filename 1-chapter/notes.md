@@ -1,4 +1,4 @@
-# What is git?
+# Chapter 1, What is git?
 
 Before jumping into github is important to know first that **Git** and **Git hub** are two different things, but one could not exists without the other (**Git hub** could not exist without **Git**). Now we can start talking on what git is: 
 

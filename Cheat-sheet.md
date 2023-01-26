@@ -9,6 +9,8 @@ In programming we call a cheat sheet as a list of usefull commands of instructio
 | :------ | :--- | :--------- |
 |  `git config --global user.email "[my-email]"`  |  Set email  | Tell git what is my user name |
 |  `git config --global user.name "[my full name]"`  |  Set full name  | Tell git what is my human name |
+|  `git init --initial-branch=main`  |  Initializes a repository where the initial branch will be named `main`  |    |
+|  `git init`  |  Initializes a repository using `master` as initial branch  |    |
 |  ``  |    |    |
 |  ``  |    |    |
 

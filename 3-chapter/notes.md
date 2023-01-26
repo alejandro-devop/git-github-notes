@@ -13,7 +13,7 @@ Once installation is done you will be able to see the following menu when you pr
 
 That black window you will be seing is the Bash, a special bash that will allow you to execute all the commands we will be describing in this notes.
 
-> Note: when you read open **your bash** this is what I mean.
+> **Note** when you read open **your bash** this is what I mean.
 
 ---
 
@@ -24,7 +24,7 @@ In linux is easy to install **Git** just open your terminal and execute
 sudo apt install git-all
 ```
 
-> You can replace `apt` to any package manager you're using on you distribution of linux, for example: `rpm` on Red hat Linux, `yum` in CentOS, `pacman` in Arch or Open Suse, etc.
+> **Note** You can replace `apt` to any package manager you're using on you distribution of linux, for example: `rpm` on Red hat Linux, `yum` in CentOS, `pacman` in Arch or Open Suse, etc.
 
 ---
 
