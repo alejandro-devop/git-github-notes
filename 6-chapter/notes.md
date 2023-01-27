@@ -60,6 +60,10 @@ To know this we got the command `git status`, this command will show us if there
 git status
 ```
 _Output_
+
 ![image](https://user-images.githubusercontent.com/68975668/214976154-7e6e3aac-1b53-4011-9445-37d6e994ebf7.png)
 
 You will be able to see under the label `Untracked files:` that there is a file colored in red, our brand new index.html file, untracked means that for git the file has no history, for git the file is brand new (Which is true). we will see more about the different status in further chapters
+
+---
+[Go to chapter 7](https://github.com/alejandro-devop/git-github-notes/blob/main/7-chapter/notes.md)

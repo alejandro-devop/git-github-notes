@@ -1,6 +1,6 @@
 # Git command cheat-sheet
 
-> **IMPORTANT:** If you are using windows I highly recommend you to use power shell and enable the [Windows Linux Subsystem](https://learn.microsoft.com/en-us/windows/wsl/install), with this you can use **All platform commands** without any problem.
+> **IMPORTANT** If you are using windows I highly recommend you to use power shell and enable the [Windows Linux Subsystem](https://learn.microsoft.com/en-us/windows/wsl/install), with this you can use **All platform commands** without any problem.
 
 ## Git commands
 In programming we call a cheat sheet as a list of usefull commands of instructions that usually get repetitive.
@@ -9,9 +9,12 @@ In programming we call a cheat sheet as a list of usefull commands of instructio
 | :------ | :--- | :--------- |
 |  `git config --global user.email "[my-email]"`  |  Set email  | Tell git what is my user name |
 |  `git config --global user.name "[my full name]"`  |  Set full name  | Tell git what is my human name |
-|  `git init --initial-branch=main`  |  Initializes a repository where the initial branch will be named `main`  |    |
-|  `git init`  |  Initializes a repository using `master` as initial branch  |    |
-|  `git status`  |  Shows the current repository status  |    |
+|  `git init --initial-branch=main`  |  Initialize  |  Initializes a repository where the initial branch will be named `main`  |
+|  `git init`  |  Initialize  |  Initializes a repository using `master` as initial branch  |
+|  `git status`  |  Show status  |  Shows the current repository status  |
+|  `git add [file-name]`  |  Add  |  Adds files to be confirmed as change (commit)  |
+|  `git add .`  |  Add all  |  Add all files marked as `untracked`, `modified`, `deleted` to be confirmed as a change (Commit)  |
+|  `git commit -m "[A message for my restoration point]"`  |  Create commit  |  Creates a restoration point for your project  |
 |  ``  |    |    |
 
 ## All platform commands
