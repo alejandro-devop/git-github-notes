@@ -11,7 +11,7 @@ In programming we call a cheat sheet as a list of usefull commands of instructio
 |  `git config --global user.name "[my full name]"`  |  Set full name  | Tell git what is my human name |
 |  `git init --initial-branch=main`  |  Initializes a repository where the initial branch will be named `main`  |    |
 |  `git init`  |  Initializes a repository using `master` as initial branch  |    |
-|  ``  |    |    |
+|  `git status`  |  Shows the current repository status  |    |
 |  ``  |    |    |
 
 ## All platform commands
@@ -23,6 +23,7 @@ In programming we call a cheat sheet as a list of usefull commands of instructio
 |  `ls -la`  |  **List directory content vertical**  |  Shows the current directory content but in vertical format, also includes the hidden files  | `ls -la` |
 |  `pwd`  | **Print working directory** | Shows the current directory path | `pwd` |
 |  `clear` | **Clear** | Clear the current bash content | `clear` |
+|  `touch [file-name].[extension]` | **Create file** | Creates a file in the current directory | `touch index.html`|
 
 
 ## Windows usefull commands
@@ -31,3 +32,4 @@ In programming we call a cheat sheet as a list of usefull commands of instructio
 |  `dir`  | **Directory**   |  Shows all content in the current directory  |  |
 |  `md`  |  **Make directory**  |  Creates a directory  | `md my_folder` |
 |  `cls` |  **Clear screen**  |  Clear the current bash content | `cls` |
+|  `copy NUL [file-name].[extension]` | **Create file** | Creates a file in the current directory | `copy NUL index.html` |
